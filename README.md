@@ -4,7 +4,7 @@
 
 MidnightOps is a fast, threaded subdomain enumeration tool written in Python. Designed for security researchers, bug bounty hunters, and digital ninjas who move under the cover of terminal shadows.
 
-![Banner](https://user-images.githubusercontent.com/placeholder/banner.png)  
+![Banner](https://github.com/CS-D3v1in/MidnightOps/blob/main/banner.png)  
 > *Banner ASCII art included by default. No external dependencies required.*
 
 ---
