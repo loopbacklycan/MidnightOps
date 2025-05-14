@@ -22,6 +22,6 @@ MidnightOps is a fast, threaded subdomain enumeration tool written in Python. De
 ## 🚀 Usage
 
 ```bash
-git clone https://github.com/yourusername/MidnightOps.git
+git clone https://github.com/CS-D3v1in/MidnightOps.git
 cd MidnightOps
 python3 midnightops.py
